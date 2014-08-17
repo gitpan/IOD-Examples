@@ -15,8 +15,14 @@ share/examples/dir-include-child.iod
 share/examples/dir-include-child.iod.json
 share/examples/dir-include.iod
 share/examples/dir-include.iod.json
+share/examples/dir-include2.iod
+share/examples/dir-include2.iod.json
 share/examples/dir-merge.iod
 share/examples/dir-merge.iod.json
+share/examples/dir-merge2.iod
+share/examples/dir-merge2.iod.json
+share/examples/dir1/b.iod
+share/examples/dir1/b2.iod
 share/examples/dirsyntax.iod
 share/examples/dirsyntax.iod.json
 share/examples/empty.iod
