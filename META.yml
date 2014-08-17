@@ -23,7 +23,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=IOD-Examples
   homepage: https://metacpan.org/release/IOD-Examples
   repository: git://github.com/sharyanto/perl-IOD-Examples.git
-version: '0.03'
+version: '0.04'
 x_Dist_Zilla:
   perl:
     version: '5.018002'

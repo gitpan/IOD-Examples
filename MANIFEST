@@ -6,6 +6,7 @@ META.json
 META.yml
 Makefile.PL
 README
+devscripts/gen-json
 dist.ini
 lib/IOD/Examples.pm
 share/examples/TODO-encoding-expr.iod
@@ -17,6 +18,8 @@ share/examples/dir-include.iod
 share/examples/dir-include.iod.json
 share/examples/dir-include2.iod
 share/examples/dir-include2.iod.json
+share/examples/dir-merge-self.iod
+share/examples/dir-merge-self.iod.json
 share/examples/dir-merge.iod
 share/examples/dir-merge.iod.json
 share/examples/dir-merge2.iod
@@ -45,6 +48,8 @@ share/examples/invalid-key-noassign.iod
 share/examples/invalid-section.iod
 share/examples/key.iod
 share/examples/key.iod.json
+share/examples/multisection.iod
+share/examples/multisection.iod.json
 share/examples/multival.iod
 share/examples/multival.iod.json
 share/examples/nested-section.iod
