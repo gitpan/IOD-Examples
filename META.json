@@ -30,7 +30,7 @@
       },
       "runtime" : {
          "requires" : {
-            "IOD" : "v0.9.1"
+            "IOD" : "v0.9.3"
          }
       },
       "test" : {
@@ -54,7 +54,7 @@
          "web" : "https://github.com/sharyanto/perl-IOD-Examples"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.018002"

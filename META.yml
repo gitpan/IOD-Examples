@@ -18,12 +18,12 @@ meta-spec:
   version: '1.4'
 name: IOD-Examples
 requires:
-  IOD: v0.9.1
+  IOD: v0.9.3
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=IOD-Examples
   homepage: https://metacpan.org/release/IOD-Examples
   repository: git://github.com/sharyanto/perl-IOD-Examples.git
-version: '0.01'
+version: '0.02'
 x_Dist_Zilla:
   perl:
     version: '5.018002'
