@@ -15,7 +15,7 @@ install_share dist => "share";
 
 my %WriteMakefileArgs = (
   "ABSTRACT" => "Example .IOD configuration files",
-  "AUTHOR" => "Steven Haryanto <stevenharyanto\@gmail.com>",
+  "AUTHOR" => "perlancar <perlancar\@cpan.org>",
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => "6.30",
     "File::ShareDir::Install" => "0.06"
@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "IOD::Examples",
   "PREREQ_PM" => {
-    "IOD" => "v0.9.3"
+    "IOD" => "v0.9.6"
   },
   "TEST_REQUIRES" => {
     "File::Spec" => 0,
@@ -33,7 +33,7 @@ my %WriteMakefileArgs = (
     "IPC::Open3" => 0,
     "Test::More" => 0
   },
-  "VERSION" => "0.04",
+  "VERSION" => "0.05",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -43,7 +43,7 @@ my %WriteMakefileArgs = (
 my %FallbackPrereqs = (
   "File::Spec" => 0,
   "IO::Handle" => 0,
-  "IOD" => "v0.9.3",
+  "IOD" => "v0.9.6",
   "IPC::Open3" => 0,
   "Test::More" => 0
 );
