@@ -32,6 +32,8 @@ share/examples/empty.iod
 share/examples/empty.iod.json
 share/examples/encoding-base64.iod
 share/examples/encoding-base64.iod.json
+share/examples/encoding-expr.iod
+share/examples/encoding-expr.iod.json
 share/examples/encoding-hex.iod
 share/examples/encoding-hex.iod.json
 share/examples/encoding-json.iod

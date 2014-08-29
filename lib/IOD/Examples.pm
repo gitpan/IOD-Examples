@@ -1,7 +1,7 @@
 package IOD::Examples;
 
-our $DATE = '2014-08-28'; # DATE
-our $VERSION = '0.05'; # VERSION
+our $DATE = '2014-08-30'; # DATE
+our $VERSION = '0.06'; # VERSION
 
 1;
 # ABSTRACT: Example .IOD configuration files
@@ -18,7 +18,7 @@ IOD::Examples - Example .IOD configuration files
 
 =head1 VERSION
 
-This document describes version 0.05 of IOD::Examples (from Perl distribution IOD-Examples), released on 2014-08-28.
+This document describes version 0.06 of IOD::Examples (from Perl distribution IOD-Examples), released on 2014-08-30.
 
 =head1 HOMEPAGE
 
