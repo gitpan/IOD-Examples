@@ -23,7 +23,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=IOD-Examples
   homepage: https://metacpan.org/release/IOD-Examples
   repository: git://github.com/perlancar/perl-IOD-Examples.git
-version: '0.07'
+version: '0.08'
 x_Dist_Zilla:
   perl:
     version: '5.018002'
@@ -216,7 +216,7 @@ x_Dist_Zilla:
     -
       class: Dist::Zilla::Plugin::Rinci::Validate
       name: '@Author::PERLANCAR/Rinci::Validate'
-      version: '0.14'
+      version: '0.18'
     -
       class: Dist::Zilla::Plugin::SetScriptShebang
       name: '@Author::PERLANCAR/SetScriptShebang'
